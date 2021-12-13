@@ -1,0 +1,18 @@
+
+* {
+	background: #47935e;
+	overflow: hidden;
+	font-family: 'Press Start 2P', cursive;
+	transition: 0.15s;
+}
+
+#px-aditya {
+	background: transparent;
+	height: 100%;
+	filter: opacity(50%);
+}
+
+#px-aditya:hover {
+	filter: opacity(100%);
+}
+
